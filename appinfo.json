@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "cagdas@cac.rutgers.edu",
+    "longName": "basic",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "basic",
+    "uuid": "5d7ba957-8e1c-46a8-8e7b-0fd047f56860",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
